@@ -1,0 +1,87 @@
+﻿{
+  "Temperatura": {
+    "Scazuta": {
+      "Scazuta": 0.75,
+      "Moderata": 0.25,
+      "Ridicata": 0
+    },
+    "Moderata": {
+      "Scazuta": 0.25,
+      "Moderata": 0.5,
+      "Ridicata": 0.25
+    },
+    "Ridicata": {
+      "Scazuta": 0,
+      "Moderata": 0.25,
+      "Ridicata": 0.75
+    }
+  },
+  "Vant": {
+    "Slab": {
+      "Slab": 0.7,
+      "Moderat": 0.2,
+      "Puternic": 0.1
+    },
+    "Moderat": {
+      "Slab": 0.2,
+      "Moderat": 0.6,
+      "Puternic": 0.2
+    },
+    "Puternic": {
+      "Slab": 0.1,
+      "Moderat": 0.2,
+      "Puternic": 0.7
+    }
+  },
+  "Trafic": {
+    "Scazut": {
+      "Scazut": 0.6,
+      "Moderat": 0.2,
+      "Ridicat": 0.2
+    },
+    "Moderat": {
+      "Scazut": 0.2,
+      "Moderat": 0.6,
+      "Ridicat": 0.2
+    },
+    "Ridicat": {
+      "Scazut": 0.2,
+      "Moderat": 0.2,
+      "Ridicat": 0.6
+    }
+  },
+  "Industrie": {
+    "Scazuta": {
+      "Scazuta": 0.6,
+      "Moderata": 0.2,
+      "Ridicata": 0.2
+    },
+    "Moderata": {
+      "Scazuta": 0.2,
+      "Moderata": 0.6,
+      "Ridicata": 0.2
+    },
+    "Ridicata": {
+      "Scazuta": 0.2,
+      "Moderata": 0.2,
+      "Ridicata": 0.6
+    }
+  },
+  "Umiditate": {
+    "Scăzută": {
+      "Scăzută": 0.7,
+      "Moderată": 0.2,
+      "Ridicată": 0.1
+    },
+    "Moderată": {
+      "Scăzută": 0.3,
+      "Moderată": 0.6,
+      "Ridicată": 0.1
+    },
+    "Ridicată": {
+      "Scăzută": 0.1,
+      "Moderată": 0.2,
+      "Ridicată": 0.7
+    }
+  }
+}

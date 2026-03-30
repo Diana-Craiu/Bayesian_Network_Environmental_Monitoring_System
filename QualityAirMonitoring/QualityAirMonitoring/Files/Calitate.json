@@ -1,0 +1,36 @@
+﻿{
+  "Aer": {
+    "Scazut": {
+      "Scazut": 0,
+      "Moderat": 0.2,
+      "Ridicat": 0.8
+    },
+    "Moderat": {
+      "Scazut": 0.1,
+      "Moderat": 0.8,
+      "Ridicat": 0.1
+    },
+    "Ridicat": {
+      "Scazut": 0.8,
+      "Moderat": 0.2,
+      "Ridicat": 0
+    }
+  },
+  "Apa": {
+    "Scazut": {
+      "Scazut": 0,
+      "Moderat": 0.2,
+      "Ridicat": 0.8
+    },
+    "Moderat": {
+      "Scazut": 0.1,
+      "Moderat": 0.8,
+      "Ridicat": 0.1
+    },
+    "Ridicat": {
+      "Scazut": 0.8,
+      "Moderat": 0.2,
+      "Ridicat": 0
+    }
+  }
+}

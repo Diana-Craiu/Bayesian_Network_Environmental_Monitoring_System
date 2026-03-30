@@ -1,0 +1,87 @@
+﻿{
+  "Temperatura": {
+    "Scazut": {
+      "Scazut": 0.75,
+      "Moderat": 0.25,
+      "Ridicat": 0
+    },
+    "Moderat": {
+      "Scazut": 0.25,
+      "Moderat": 0.5,
+      "Ridicat": 0.25
+    },
+    "Ridicat": {
+      "Scazut": 0,
+      "Moderat": 0.25,
+      "Ridicat": 0.75
+    }
+  },
+  "Vant": {
+    "Scazut": {
+      "Scazut": 0.7,
+      "Moderat": 0.2,
+      "Ridicat": 0.1
+    },
+    "Moderat": {
+      "Scazut": 0.2,
+      "Moderat": 0.6,
+      "Ridicat": 0.2
+    },
+    "Ridicat": {
+      "Scazut": 0.1,
+      "Moderat": 0.2,
+      "Ridicat": 0.7
+    }
+  },
+  "Trafic": {
+    "Scazut": {
+      "Scazut": 0.6,
+      "Moderat": 0.2,
+      "Ridicat": 0.2
+    },
+    "Moderat": {
+      "Scazut": 0.2,
+      "Moderat": 0.6,
+      "Ridicat": 0.2
+    },
+    "Ridicat": {
+      "Scazut": 0.2,
+      "Moderat": 0.2,
+      "Ridicat": 0.6
+    }
+  },
+  "Industrie": {
+    "Scazut": {
+      "Scazut": 0.6,
+      "Moderat": 0.2,
+      "Ridicat": 0.2
+    },
+    "Moderat": {
+      "Scazut": 0.2,
+      "Moderat": 0.6,
+      "Ridicat": 0.2
+    },
+    "Ridicat": {
+      "Scazut": 0.2,
+      "Moderat": 0.2,
+      "Ridicat": 0.6
+    }
+  },
+  "Umiditate": {
+    "Scazut": {
+      "Scazut": 0.7,
+      "Moderat": 0.2,
+      "Ridicat": 0.1
+    },
+    "Moderat": {
+      "Scazut": 0.3,
+      "Moderat": 0.6,
+      "Ridicat": 0.1
+    },
+    "Ridicat": {
+      "Scazut": 0.1,
+      "Moderat": 0.2,
+      "Ridicat": 0.7
+    }
+  }
+}

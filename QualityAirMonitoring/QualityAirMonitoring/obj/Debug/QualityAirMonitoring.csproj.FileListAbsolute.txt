@@ -1,0 +1,29 @@
+D:\Facultate\IA\proiect\QualityAirMonitoring\QualityAirMonitoring\bin\Debug\QualityAirMonitoring.exe.config
+D:\Facultate\IA\proiect\QualityAirMonitoring\QualityAirMonitoring\bin\Debug\QualityAirMonitoring.exe
+D:\Facultate\IA\proiect\QualityAirMonitoring\QualityAirMonitoring\bin\Debug\QualityAirMonitoring.pdb
+D:\Facultate\IA\proiect\QualityAirMonitoring\QualityAirMonitoring\bin\Debug\Newtonsoft.Json.dll
+D:\Facultate\IA\proiect\QualityAirMonitoring\QualityAirMonitoring\bin\Debug\Newtonsoft.Json.xml
+D:\Facultate\IA\proiect\QualityAirMonitoring\QualityAirMonitoring\obj\Debug\QualityAirMonitoring.csproj.AssemblyReference.cache
+D:\Facultate\IA\proiect\QualityAirMonitoring\QualityAirMonitoring\obj\Debug\QualityAirMonitoring.Form1.resources
+D:\Facultate\IA\proiect\QualityAirMonitoring\QualityAirMonitoring\obj\Debug\QualityAirMonitoring.Properties.Resources.resources
+D:\Facultate\IA\proiect\QualityAirMonitoring\QualityAirMonitoring\obj\Debug\QualityAirMonitoring.csproj.GenerateResource.cache
+D:\Facultate\IA\proiect\QualityAirMonitoring\QualityAirMonitoring\obj\Debug\QualityAirMonitoring.csproj.CoreCompileInputs.cache
+D:\Facultate\IA\proiect\QualityAirMonitoring\QualityAirMonitoring\obj\Debug\QualityAirMonitoring.csproj.CopyComplete
+D:\Facultate\IA\proiect\QualityAirMonitoring\QualityAirMonitoring\obj\Debug\QualityAirMonitoring.exe
+D:\Facultate\IA\proiect\QualityAirMonitoring\QualityAirMonitoring\obj\Debug\QualityAirMonitoring.pdb
+D:\D Drive\Facultate\Anul 4\Semestrul 1\IA\Proiect\QualityAirMonitoring\QualityAirMonitoring\obj\Debug\QualityAirMonitoring.csproj.AssemblyReference.cache
+D:\D Drive\Facultate\Anul 4\Semestrul 1\IA\Proiect\QualityAirMonitoring\QualityAirMonitoring\obj\Debug\QualityAirMonitoring.Form1.resources
+D:\D Drive\Facultate\Anul 4\Semestrul 1\IA\Proiect\QualityAirMonitoring\QualityAirMonitoring\obj\Debug\QualityAirMonitoring.Properties.Resources.resources
+D:\D Drive\Facultate\Anul 4\Semestrul 1\IA\Proiect\QualityAirMonitoring\QualityAirMonitoring\obj\Debug\QualityAirMonitoring.csproj.GenerateResource.cache
+D:\D Drive\Facultate\Anul 4\Semestrul 1\IA\Proiect\QualityAirMonitoring\QualityAirMonitoring\obj\Debug\QualityAirMonitoring.csproj.CoreCompileInputs.cache
+D:\D Drive\Facultate\Anul 4\Semestrul 1\IA\Proiect\QualityAirMonitoring\QualityAirMonitoring\obj\Debug\QualityAirMonitoring.exe
+D:\D Drive\Facultate\Anul 4\Semestrul 1\IA\Proiect\QualityAirMonitoring\QualityAirMonitoring\obj\Debug\QualityAirMonitoring.pdb
+<<<<<<< HEAD
+=======
+D:\D Drive\Facultate\Anul 4\Semestrul 1\IA\Proiect\QualityAirMonitoring\QualityAirMonitoring\bin\Debug\QualityAirMonitoring.exe.config
+D:\D Drive\Facultate\Anul 4\Semestrul 1\IA\Proiect\QualityAirMonitoring\QualityAirMonitoring\bin\Debug\QualityAirMonitoring.exe
+D:\D Drive\Facultate\Anul 4\Semestrul 1\IA\Proiect\QualityAirMonitoring\QualityAirMonitoring\bin\Debug\QualityAirMonitoring.pdb
+D:\D Drive\Facultate\Anul 4\Semestrul 1\IA\Proiect\QualityAirMonitoring\QualityAirMonitoring\bin\Debug\Newtonsoft.Json.dll
+D:\D Drive\Facultate\Anul 4\Semestrul 1\IA\Proiect\QualityAirMonitoring\QualityAirMonitoring\bin\Debug\Newtonsoft.Json.xml
+D:\D Drive\Facultate\Anul 4\Semestrul 1\IA\Proiect\QualityAirMonitoring\QualityAirMonitoring\obj\Debug\QualityAirMonitoring.csproj.CopyComplete
+>>>>>>> 9c9228b26b224838d69b39974760b563f0731bc9

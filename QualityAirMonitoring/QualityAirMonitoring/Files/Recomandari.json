@@ -1,0 +1,13 @@
+﻿{
+  "niveluri_poluare": {
+    "scazut": {
+      "mesaj": "Nivelul de poluare este scăzut. Calitatea aerului este bună."
+    },
+    "moderat": {
+      "mesaj": "Nivelul de poluare este moderat. Se recomandă precauții suplimentare pentru persoanele sensibile."
+    },
+    "ridicat": {
+      "mesaj": "Nivelul de poluare este ridicat. Este recomandată evitarea activităților în aer liber."
+    }
+  }
+}

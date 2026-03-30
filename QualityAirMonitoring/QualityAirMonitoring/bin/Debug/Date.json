@@ -1,0 +1,379 @@
+﻿{
+  "orase": [
+    {
+      "nume": "Iasi",
+      "saptamani": [
+        {
+          "nume_saptamana": "Saptamana1",
+          "detalii_meteo": {
+            "temperatura": "Moderata",
+            "trafic": "Ridicat",
+            "vant": "Puternic",
+            "industrie": "Scazuta",
+            "umiditate": "Moderata"
+          }
+        },
+        {
+          "nume_saptamana": "Saptamana2",
+          "detalii_meteo": {
+            "temperatura": "Ridicata",
+            "trafic": "Moderat",
+            "vant": "Moderat",
+            "industrie": "Ridicata",
+            "umiditate": "Scăzută"
+          }
+        },
+        {
+          "nume_saptamana": "Saptamana3",
+          "detalii_meteo": {
+            "temperatura": "Ridicata",
+            "trafic": "Moderat",
+            "vant": "Moderat",
+            "industrie": "Ridicata",
+            "umiditate": "Scăzută"
+          }
+        },
+        {
+          "nume_saptamana": "Saptamana4",
+          "detalii_meteo": {
+            "temperatura": "Ridicata",
+            "trafic": "Moderat",
+            "vant": "Moderat",
+            "industrie": "Ridicata",
+            "umiditate": "Scăzută"
+          }
+        }
+      ]
+    },
+
+
+    {
+      "nume": "Bucuresti",
+      "saptamani": [
+        {
+          "nume_saptamana": "Saptamana1",
+          "detalii_meteo": {
+            "temperatura": "Moderata",
+            "trafic": "Ridicat",
+            "vant": "Puternic",
+            "industrie": "Scazuta",
+            "umiditate": "Moderata"
+          }
+        },
+        {
+          "nume_saptamana": "Saptamana2",
+          "detalii_meteo": {
+            "temperatura": "Ridicata",
+            "trafic": "Moderat",
+            "vant": "Moderat",
+            "industrie": "Ridicata",
+            "umiditate": "Scăzută"
+          }
+        },
+        {
+          "nume_saptamana": "Saptamana3",
+          "detalii_meteo": {
+            "temperatura": "Ridicata",
+            "trafic": "Moderat",
+            "vant": "Moderat",
+            "industrie": "Ridicata",
+            "umiditate": "Scăzută"
+          }
+        },
+        {
+          "nume_saptamana": "Saptamana4",
+          "detalii_meteo": {
+            "temperatura": "Ridicata",
+            "trafic": "Moderat",
+            "vant": "Moderat",
+            "industrie": "Ridicata",
+            "umiditate": "Scăzută"
+          }
+        }
+      ]
+    },
+
+
+    {
+      "nume": "Cluj",
+      "saptamani": [
+        {
+          "nume_saptamana": "Saptamana1",
+          "detalii_meteo": {
+            "temperatura": "Moderata",
+            "trafic": "Ridicat",
+            "vant": "Puternic",
+            "industrie": "Scazuta",
+            "umiditate": "Moderata"
+          }
+        },
+        {
+          "nume_saptamana": "Saptamana2",
+          "detalii_meteo": {
+            "temperatura": "Ridicata",
+            "trafic": "Moderat",
+            "vant": "Moderat",
+            "industrie": "Ridicata",
+            "umiditate": "Scăzută"
+          }
+        },
+        {
+          "nume_saptamana": "Saptamana3",
+          "detalii_meteo": {
+            "temperatura": "Ridicata",
+            "trafic": "Moderat",
+            "vant": "Moderat",
+            "industrie": "Ridicata",
+            "umiditate": "Scăzută"
+          }
+        },
+        {
+          "nume_saptamana": "Saptamana4",
+          "detalii_meteo": {
+            "temperatura": "Ridicata",
+            "trafic": "Moderat",
+            "vant": "Moderat",
+            "industrie": "Ridicata",
+            "umiditate": "Scăzută"
+          }
+        }
+      ]
+    },
+
+
+    {
+      "nume": "Brasov",
+      "saptamani": [
+        {
+          "nume_saptamana": "Saptamana1",
+          "detalii_meteo": {
+            "temperatura": "Moderata",
+            "trafic": "Ridicat",
+            "vant": "Puternic",
+            "industrie": "Scazuta",
+            "umiditate": "Moderata"
+          }
+        },
+        {
+          "nume_saptamana": "Saptamana2",
+          "detalii_meteo": {
+            "temperatura": "Ridicata",
+            "trafic": "Moderat",
+            "vant": "Moderat",
+            "industrie": "Ridicata",
+            "umiditate": "Scăzută"
+          }
+        },
+        {
+          "nume_saptamana": "Saptamana3",
+          "detalii_meteo": {
+            "temperatura": "Ridicata",
+            "trafic": "Moderat",
+            "vant": "Moderat",
+            "industrie": "Ridicata",
+            "umiditate": "Scăzută"
+          }
+        },
+        {
+          "nume_saptamana": "Saptamana4",
+          "detalii_meteo": {
+            "temperatura": "Ridicata",
+            "trafic": "Moderat",
+            "vant": "Moderat",
+            "industrie": "Ridicata",
+            "umiditate": "Scăzută"
+          }
+        }
+      ]
+    },
+
+
+    {
+      "nume": "Sibiu",
+      "saptamani": [
+        {
+          "nume_saptamana": "Saptamana1",
+          "detalii_meteo": {
+            "temperatura": "Moderata",
+            "trafic": "Ridicat",
+            "vant": "Puternic",
+            "industrie": "Scazuta",
+            "umiditate": "Moderata"
+          }
+        },
+        {
+          "nume_saptamana": "Saptamana2",
+          "detalii_meteo": {
+            "temperatura": "Ridicata",
+            "trafic": "Moderat",
+            "vant": "Moderat",
+            "industrie": "Ridicata",
+            "umiditate": "Scăzută"
+          }
+        },
+        {
+          "nume_saptamana": "Saptamana3",
+          "detalii_meteo": {
+            "temperatura": "Ridicata",
+            "trafic": "Moderat",
+            "vant": "Moderat",
+            "industrie": "Ridicata",
+            "umiditate": "Scăzută"
+          }
+        },
+        {
+          "nume_saptamana": "Saptamana4",
+          "detalii_meteo": {
+            "temperatura": "Ridicata",
+            "trafic": "Moderat",
+            "vant": "Moderat",
+            "industrie": "Ridicata",
+            "umiditate": "Scăzută"
+          }
+        }
+      ]
+    },
+
+
+    {
+      "nume": "Constanta",
+      "saptamani": [
+        {
+          "nume_saptamana": "Saptamana1",
+          "detalii_meteo": {
+            "temperatura": "Moderata",
+            "trafic": "Ridicat",
+            "vant": "Puternic",
+            "industrie": "Scazuta",
+            "umiditate": "Moderata"
+          }
+        },
+        {
+          "nume_saptamana": "Saptamana2",
+          "detalii_meteo": {
+            "temperatura": "Ridicata",
+            "trafic": "Moderat",
+            "vant": "Moderat",
+            "industrie": "Ridicata",
+            "umiditate": "Scăzută"
+          }
+        },
+        {
+          "nume_saptamana": "Saptamana3",
+          "detalii_meteo": {
+            "temperatura": "Ridicata",
+            "trafic": "Moderat",
+            "vant": "Moderat",
+            "industrie": "Ridicata",
+            "umiditate": "Scăzută"
+          }
+        },
+        {
+          "nume_saptamana": "Saptamana4",
+          "detalii_meteo": {
+            "temperatura": "Ridicata",
+            "trafic": "Moderat",
+            "vant": "Moderat",
+            "industrie": "Ridicata",
+            "umiditate": "Scăzută"
+          }
+        }
+      ]
+    },
+
+
+    {
+      "nume": "Suceava",
+      "saptamani": [
+        {
+          "nume_saptamana": "Saptamana1",
+          "detalii_meteo": {
+            "temperatura": "Moderata",
+            "trafic": "Ridicat",
+            "vant": "Puternic",
+            "industrie": "Scazuta",
+            "umiditate": "Moderata"
+          }
+        },
+        {
+          "nume_saptamana": "Saptamana2",
+          "detalii_meteo": {
+            "temperatura": "Ridicata",
+            "trafic": "Moderat",
+            "vant": "Moderat",
+            "industrie": "Ridicata",
+            "umiditate": "Scăzută"
+          }
+        },
+        {
+          "nume_saptamana": "Saptamana3",
+          "detalii_meteo": {
+            "temperatura": "Ridicata",
+            "trafic": "Moderat",
+            "vant": "Moderat",
+            "industrie": "Ridicata",
+            "umiditate": "Scăzută"
+          }
+        },
+        {
+          "nume_saptamana": "Saptamana4",
+          "detalii_meteo": {
+            "temperatura": "Ridicata",
+            "trafic": "Moderat",
+            "vant": "Moderat",
+            "industrie": "Ridicata",
+            "umiditate": "Scăzută"
+          }
+        }
+      ]
+    },
+
+
+    {
+      "nume": "Timisoara",
+      "saptamani": [
+        {
+          "nume_saptamana": "Saptamana1",
+          "detalii_meteo": {
+            "temperatura": "Moderata",
+            "trafic": "Ridicat",
+            "vant": "Puternic",
+            "industrie": "Scazuta",
+            "umiditate": "Moderata"
+          }
+        },
+        {
+          "nume_saptamana": "Saptamana2",
+          "detalii_meteo": {
+            "temperatura": "Ridicata",
+            "trafic": "Moderat",
+            "vant": "Moderat",
+            "industrie": "Ridicata",
+            "umiditate": "Scăzută"
+          }
+        },
+        {
+          "nume_saptamana": "Saptamana3",
+          "detalii_meteo": {
+            "temperatura": "Ridicata",
+            "trafic": "Moderat",
+            "vant": "Moderat",
+            "industrie": "Ridicata",
+            "umiditate": "Scăzută"
+          }
+        },
+        {
+          "nume_saptamana": "Saptamana4",
+          "detalii_meteo": {
+            "temperatura": "Ridicata",
+            "trafic": "Moderat",
+            "vant": "Moderat",
+            "industrie": "Ridicata",
+            "umiditate": "Scăzută"
+          }
+        }
+      ]
+    }
+
+  ]
+}

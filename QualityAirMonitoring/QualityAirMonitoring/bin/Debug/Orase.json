@@ -1,0 +1,1266 @@
+﻿{
+  "orase": [
+    {
+      "nume": "Iasi",
+      "saptamani": [
+        {
+          "nume_saptamana": "Saptamana1",
+          "noduri": [
+            {
+              "nume_nod": "Poluare",
+              "valori_posibile": [ "Scazut", "Moderat", "Ridicat" ],
+              "probabilitati_conditionate": {
+                "TraficRutier": {
+                  "Scazut": 0.8,
+                  "Moderat": 0.5,
+                  "Ridicat": 0.1
+                },
+                "Industrie": {
+                  "Scazut": 0.3,
+                  "Moderat": 0.6,
+                  "Ridicat": 0.9
+                },
+                "Vant": {
+                  "Slab": 0.2,
+                  "Moderat": 0.5,
+                  "Puternic": 0.8
+                },
+                "Temperatura": {
+                  "Joasa": 0.3,
+                  "Medie": 0.6,
+                  "Ridicata": 0.9
+                },
+                "Umiditate": {
+                  "Scăzută": 0.2,
+                  "Moderată": 0.5,
+                  "Ridicată": 0.7
+                }
+              }
+            }
+          ]
+        },
+
+
+        {
+          "nume_saptamana": "Saptamana2",
+          "noduri": [
+            {
+              "nume_nod": "Poluare",
+              "valori_posibile": [ "Scazut", "Moderat", "Ridicat" ],
+              "probabilitati_conditionate": {
+                "TraficRutier": {
+                  "Scazut": 0.8,
+                  "Moderat": 0.5,
+                  "Ridicat": 0.1
+                },
+                "Industrie": {
+                  "Scazut": 0.3,
+                  "Moderat": 0.6,
+                  "Ridicat": 0.9
+                },
+                "Vant": {
+                  "Slab": 0.2,
+                  "Moderat": 0.5,
+                  "Puternic": 0.8
+                },
+                "Temperatura": {
+                  "Joasa": 0.3,
+                  "Medie": 0.6,
+                  "Ridicata": 0.9
+                },
+                "Umiditate": {
+                  "Scăzută": 0.2,
+                  "Moderată": 0.5,
+                  "Ridicată": 0.7
+                }
+              }
+            }
+          ]
+        },
+
+
+        {
+          "nume_saptamana": "Saptamana3",
+          "noduri": [
+            {
+              "nume_nod": "Poluare",
+              "valori_posibile": [ "Scazut", "Moderat", "Ridicat" ],
+              "probabilitati_conditionate": {
+                "TraficRutier": {
+                  "Scazut": 0.8,
+                  "Moderat": 0.5,
+                  "Ridicat": 0.1
+                },
+                "Industrie": {
+                  "Scazut": 0.3,
+                  "Moderat": 0.6,
+                  "Ridicat": 0.9
+                },
+                "Vant": {
+                  "Slab": 0.2,
+                  "Moderat": 0.5,
+                  "Puternic": 0.8
+                },
+                "Temperatura": {
+                  "Joasa": 0.3,
+                  "Medie": 0.6,
+                  "Ridicata": 0.9
+                },
+                "Umiditate": {
+                  "Scăzută": 0.2,
+                  "Moderată": 0.5,
+                  "Ridicată": 0.7
+                }
+              }
+            }
+          ]
+        },
+
+
+        {
+          "nume_saptamana": "Saptamana4",
+          "noduri": [
+            {
+              "nume_nod": "Poluare",
+              "valori_posibile": [ "Scazut", "Moderat", "Ridicat" ],
+              "probabilitati_conditionate": {
+                "TraficRutier": {
+                  "Scazut": 0.8,
+                  "Moderat": 0.5,
+                  "Ridicat": 0.1
+                },
+                "Industrie": {
+                  "Scazut": 0.3,
+                  "Moderat": 0.6,
+                  "Ridicat": 0.9
+                },
+                "Vant": {
+                  "Slab": 0.2,
+                  "Moderat": 0.5,
+                  "Puternic": 0.8
+                },
+                "Temperatura": {
+                  "Joasa": 0.3,
+                  "Medie": 0.6,
+                  "Ridicata": 0.9
+                },
+                "Umiditate": {
+                  "Scăzută": 0.2,
+                  "Moderată": 0.5,
+                  "Ridicată": 0.7
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+
+
+
+    {
+      "nume": "Bucuresti",
+      "saptamani": [
+        {
+          "nume_saptamana": "Saptamana1",
+          "noduri": [
+            {
+              "nume_nod": "Poluare",
+              "valori_posibile": [ "Scazut", "Moderat", "Ridicat" ],
+              "probabilitati_conditionate": {
+                "TraficRutier": {
+                  "Scazut": 0.8,
+                  "Moderat": 0.5,
+                  "Ridicat": 0.1
+                },
+                "Industrie": {
+                  "Scazut": 0.3,
+                  "Moderat": 0.6,
+                  "Ridicat": 0.9
+                },
+                "Vant": {
+                  "Slab": 0.2,
+                  "Moderat": 0.5,
+                  "Puternic": 0.8
+                },
+                "Temperatura": {
+                  "Joasa": 0.3,
+                  "Medie": 0.6,
+                  "Ridicata": 0.9
+                },
+                "Umiditate": {
+                  "Scăzută": 0.2,
+                  "Moderată": 0.5,
+                  "Ridicată": 0.7
+                }
+              }
+            }
+          ]
+        },
+
+
+        {
+          "nume_saptamana": "Saptamana2",
+          "noduri": [
+            {
+              "nume_nod": "Poluare",
+              "valori_posibile": [ "Scazut", "Moderat", "Ridicat" ],
+              "probabilitati_conditionate": {
+                "TraficRutier": {
+                  "Scazut": 0.8,
+                  "Moderat": 0.5,
+                  "Ridicat": 0.1
+                },
+                "Industrie": {
+                  "Scazut": 0.3,
+                  "Moderat": 0.6,
+                  "Ridicat": 0.9
+                },
+                "Vant": {
+                  "Slab": 0.2,
+                  "Moderat": 0.5,
+                  "Puternic": 0.8
+                },
+                "Temperatura": {
+                  "Joasa": 0.3,
+                  "Medie": 0.6,
+                  "Ridicata": 0.9
+                },
+                "Umiditate": {
+                  "Scăzută": 0.2,
+                  "Moderată": 0.5,
+                  "Ridicată": 0.7
+                }
+              }
+            }
+          ]
+        },
+
+
+        {
+          "nume_saptamana": "Saptamana3",
+          "noduri": [
+            {
+              "nume_nod": "Poluare",
+              "valori_posibile": [ "Scazut", "Moderat", "Ridicat" ],
+              "probabilitati_conditionate": {
+                "TraficRutier": {
+                  "Scazut": 0.8,
+                  "Moderat": 0.5,
+                  "Ridicat": 0.1
+                },
+                "Industrie": {
+                  "Scazut": 0.3,
+                  "Moderat": 0.6,
+                  "Ridicat": 0.9
+                },
+                "Vant": {
+                  "Slab": 0.2,
+                  "Moderat": 0.5,
+                  "Puternic": 0.8
+                },
+                "Temperatura": {
+                  "Joasa": 0.3,
+                  "Medie": 0.6,
+                  "Ridicata": 0.9
+                },
+                "Umiditate": {
+                  "Scăzută": 0.2,
+                  "Moderată": 0.5,
+                  "Ridicată": 0.7
+                }
+              }
+            }
+          ]
+        },
+
+
+        {
+          "nume_saptamana": "Saptamana4",
+          "noduri": [
+            {
+              "nume_nod": "Poluare",
+              "valori_posibile": [ "Scazut", "Moderat", "Ridicat" ],
+              "probabilitati_conditionate": {
+                "TraficRutier": {
+                  "Scazut": 0.8,
+                  "Moderat": 0.5,
+                  "Ridicat": 0.1
+                },
+                "Industrie": {
+                  "Scazut": 0.3,
+                  "Moderat": 0.6,
+                  "Ridicat": 0.9
+                },
+                "Vant": {
+                  "Slab": 0.2,
+                  "Moderat": 0.5,
+                  "Puternic": 0.8
+                },
+                "Temperatura": {
+                  "Joasa": 0.3,
+                  "Medie": 0.6,
+                  "Ridicata": 0.9
+                },
+                "Umiditate": {
+                  "Scăzută": 0.2,
+                  "Moderată": 0.5,
+                  "Ridicată": 0.7
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+
+
+
+    {
+      "nume": "Cluj",
+      "saptamani": [
+        {
+          "nume_saptamana": "Saptamana1",
+          "noduri": [
+            {
+              "nume_nod": "Poluare",
+              "valori_posibile": [ "Scazut", "Moderat", "Ridicat" ],
+              "probabilitati_conditionate": {
+                "TraficRutier": {
+                  "Scazut": 0.8,
+                  "Moderat": 0.5,
+                  "Ridicat": 0.1
+                },
+                "Industrie": {
+                  "Scazut": 0.3,
+                  "Moderat": 0.6,
+                  "Ridicat": 0.9
+                },
+                "Vant": {
+                  "Slab": 0.2,
+                  "Moderat": 0.5,
+                  "Puternic": 0.8
+                },
+                "Temperatura": {
+                  "Joasa": 0.3,
+                  "Medie": 0.6,
+                  "Ridicata": 0.9
+                },
+                "Umiditate": {
+                  "Scăzută": 0.2,
+                  "Moderată": 0.5,
+                  "Ridicată": 0.7
+                }
+              }
+            }
+          ]
+        },
+
+
+        {
+          "nume_saptamana": "Saptamana2",
+          "noduri": [
+            {
+              "nume_nod": "Poluare",
+              "valori_posibile": [ "Scazut", "Moderat", "Ridicat" ],
+              "probabilitati_conditionate": {
+                "TraficRutier": {
+                  "Scazut": 0.8,
+                  "Moderat": 0.5,
+                  "Ridicat": 0.1
+                },
+                "Industrie": {
+                  "Scazut": 0.3,
+                  "Moderat": 0.6,
+                  "Ridicat": 0.9
+                },
+                "Vant": {
+                  "Slab": 0.2,
+                  "Moderat": 0.5,
+                  "Puternic": 0.8
+                },
+                "Temperatura": {
+                  "Joasa": 0.3,
+                  "Medie": 0.6,
+                  "Ridicata": 0.9
+                },
+                "Umiditate": {
+                  "Scăzută": 0.2,
+                  "Moderată": 0.5,
+                  "Ridicată": 0.7
+                }
+              }
+            }
+          ]
+        },
+
+
+        {
+          "nume_saptamana": "Saptamana3",
+          "noduri": [
+            {
+              "nume_nod": "Poluare",
+              "valori_posibile": [ "Scazut", "Moderat", "Ridicat" ],
+              "probabilitati_conditionate": {
+                "TraficRutier": {
+                  "Scazut": 0.8,
+                  "Moderat": 0.5,
+                  "Ridicat": 0.1
+                },
+                "Industrie": {
+                  "Scazut": 0.3,
+                  "Moderat": 0.6,
+                  "Ridicat": 0.9
+                },
+                "Vant": {
+                  "Slab": 0.2,
+                  "Moderat": 0.5,
+                  "Puternic": 0.8
+                },
+                "Temperatura": {
+                  "Joasa": 0.3,
+                  "Medie": 0.6,
+                  "Ridicata": 0.9
+                },
+                "Umiditate": {
+                  "Scăzută": 0.2,
+                  "Moderată": 0.5,
+                  "Ridicată": 0.7
+                }
+              }
+            }
+          ]
+        },
+
+
+        {
+          "nume_saptamana": "Saptamana4",
+          "noduri": [
+            {
+              "nume_nod": "Poluare",
+              "valori_posibile": [ "Scazut", "Moderat", "Ridicat" ],
+              "probabilitati_conditionate": {
+                "TraficRutier": {
+                  "Scazut": 0.8,
+                  "Moderat": 0.5,
+                  "Ridicat": 0.1
+                },
+                "Industrie": {
+                  "Scazut": 0.3,
+                  "Moderat": 0.6,
+                  "Ridicat": 0.9
+                },
+                "Vant": {
+                  "Slab": 0.2,
+                  "Moderat": 0.5,
+                  "Puternic": 0.8
+                },
+                "Temperatura": {
+                  "Joasa": 0.3,
+                  "Medie": 0.6,
+                  "Ridicata": 0.9
+                },
+                "Umiditate": {
+                  "Scăzută": 0.2,
+                  "Moderată": 0.5,
+                  "Ridicată": 0.7
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+
+
+
+    {
+      "nume": "Brasov",
+      "saptamani": [
+        {
+          "nume_saptamana": "Saptamana1",
+          "noduri": [
+            {
+              "nume_nod": "Poluare",
+              "valori_posibile": [ "Scazut", "Moderat", "Ridicat" ],
+              "probabilitati_conditionate": {
+                "TraficRutier": {
+                  "Scazut": 0.8,
+                  "Moderat": 0.5,
+                  "Ridicat": 0.1
+                },
+                "Industrie": {
+                  "Scazut": 0.3,
+                  "Moderat": 0.6,
+                  "Ridicat": 0.9
+                },
+                "Vant": {
+                  "Slab": 0.2,
+                  "Moderat": 0.5,
+                  "Puternic": 0.8
+                },
+                "Temperatura": {
+                  "Joasa": 0.3,
+                  "Medie": 0.6,
+                  "Ridicata": 0.9
+                },
+                "Umiditate": {
+                  "Scăzută": 0.2,
+                  "Moderată": 0.5,
+                  "Ridicată": 0.7
+                }
+              }
+            }
+          ]
+        },
+
+
+        {
+          "nume_saptamana": "Saptamana2",
+          "noduri": [
+            {
+              "nume_nod": "Poluare",
+              "valori_posibile": [ "Scazut", "Moderat", "Ridicat" ],
+              "probabilitati_conditionate": {
+                "TraficRutier": {
+                  "Scazut": 0.8,
+                  "Moderat": 0.5,
+                  "Ridicat": 0.1
+                },
+                "Industrie": {
+                  "Scazut": 0.3,
+                  "Moderat": 0.6,
+                  "Ridicat": 0.9
+                },
+                "Vant": {
+                  "Slab": 0.2,
+                  "Moderat": 0.5,
+                  "Puternic": 0.8
+                },
+                "Temperatura": {
+                  "Joasa": 0.3,
+                  "Medie": 0.6,
+                  "Ridicata": 0.9
+                },
+                "Umiditate": {
+                  "Scăzută": 0.2,
+                  "Moderată": 0.5,
+                  "Ridicată": 0.7
+                }
+              }
+            }
+          ]
+        },
+
+
+        {
+          "nume_saptamana": "Saptamana3",
+          "noduri": [
+            {
+              "nume_nod": "Poluare",
+              "valori_posibile": [ "Scazut", "Moderat", "Ridicat" ],
+              "probabilitati_conditionate": {
+                "TraficRutier": {
+                  "Scazut": 0.8,
+                  "Moderat": 0.5,
+                  "Ridicat": 0.1
+                },
+                "Industrie": {
+                  "Scazut": 0.3,
+                  "Moderat": 0.6,
+                  "Ridicat": 0.9
+                },
+                "Vant": {
+                  "Slab": 0.2,
+                  "Moderat": 0.5,
+                  "Puternic": 0.8
+                },
+                "Temperatura": {
+                  "Joasa": 0.3,
+                  "Medie": 0.6,
+                  "Ridicata": 0.9
+                },
+                "Umiditate": {
+                  "Scăzută": 0.2,
+                  "Moderată": 0.5,
+                  "Ridicată": 0.7
+                }
+              }
+            }
+          ]
+        },
+
+
+        {
+          "nume_saptamana": "Saptamana4",
+          "noduri": [
+            {
+              "nume_nod": "Poluare",
+              "valori_posibile": [ "Scazut", "Moderat", "Ridicat" ],
+              "probabilitati_conditionate": {
+                "TraficRutier": {
+                  "Scazut": 0.8,
+                  "Moderat": 0.5,
+                  "Ridicat": 0.1
+                },
+                "Industrie": {
+                  "Scazut": 0.3,
+                  "Moderat": 0.6,
+                  "Ridicat": 0.9
+                },
+                "Vant": {
+                  "Slab": 0.2,
+                  "Moderat": 0.5,
+                  "Puternic": 0.8
+                },
+                "Temperatura": {
+                  "Joasa": 0.3,
+                  "Medie": 0.6,
+                  "Ridicata": 0.9
+                },
+                "Umiditate": {
+                  "Scăzută": 0.2,
+                  "Moderată": 0.5,
+                  "Ridicată": 0.7
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+
+
+
+    {
+      "nume": "Sibiu",
+      "saptamani": [
+        {
+          "nume_saptamana": "Saptamana1",
+          "noduri": [
+            {
+              "nume_nod": "Poluare",
+              "valori_posibile": [ "Scazut", "Moderat", "Ridicat" ],
+              "probabilitati_conditionate": {
+                "TraficRutier": {
+                  "Scazut": 0.8,
+                  "Moderat": 0.5,
+                  "Ridicat": 0.1
+                },
+                "Industrie": {
+                  "Scazut": 0.3,
+                  "Moderat": 0.6,
+                  "Ridicat": 0.9
+                },
+                "Vant": {
+                  "Slab": 0.2,
+                  "Moderat": 0.5,
+                  "Puternic": 0.8
+                },
+                "Temperatura": {
+                  "Joasa": 0.3,
+                  "Medie": 0.6,
+                  "Ridicata": 0.9
+                },
+                "Umiditate": {
+                  "Scăzută": 0.2,
+                  "Moderată": 0.5,
+                  "Ridicată": 0.7
+                }
+              }
+            }
+          ]
+        },
+
+
+        {
+          "nume_saptamana": "Saptamana2",
+          "noduri": [
+            {
+              "nume_nod": "Poluare",
+              "valori_posibile": [ "Scazut", "Moderat", "Ridicat" ],
+              "probabilitati_conditionate": {
+                "TraficRutier": {
+                  "Scazut": 0.8,
+                  "Moderat": 0.5,
+                  "Ridicat": 0.1
+                },
+                "Industrie": {
+                  "Scazut": 0.3,
+                  "Moderat": 0.6,
+                  "Ridicat": 0.9
+                },
+                "Vant": {
+                  "Slab": 0.2,
+                  "Moderat": 0.5,
+                  "Puternic": 0.8
+                },
+                "Temperatura": {
+                  "Joasa": 0.3,
+                  "Medie": 0.6,
+                  "Ridicata": 0.9
+                },
+                "Umiditate": {
+                  "Scăzută": 0.2,
+                  "Moderată": 0.5,
+                  "Ridicată": 0.7
+                }
+              }
+            }
+          ]
+        },
+
+
+        {
+          "nume_saptamana": "Saptamana3",
+          "noduri": [
+            {
+              "nume_nod": "Poluare",
+              "valori_posibile": [ "Scazut", "Moderat", "Ridicat" ],
+              "probabilitati_conditionate": {
+                "TraficRutier": {
+                  "Scazut": 0.8,
+                  "Moderat": 0.5,
+                  "Ridicat": 0.1
+                },
+                "Industrie": {
+                  "Scazut": 0.3,
+                  "Moderat": 0.6,
+                  "Ridicat": 0.9
+                },
+                "Vant": {
+                  "Slab": 0.2,
+                  "Moderat": 0.5,
+                  "Puternic": 0.8
+                },
+                "Temperatura": {
+                  "Joasa": 0.3,
+                  "Medie": 0.6,
+                  "Ridicata": 0.9
+                },
+                "Umiditate": {
+                  "Scăzută": 0.2,
+                  "Moderată": 0.5,
+                  "Ridicată": 0.7
+                }
+              }
+            }
+          ]
+        },
+
+
+        {
+          "nume_saptamana": "Saptamana4",
+          "noduri": [
+            {
+              "nume_nod": "Poluare",
+              "valori_posibile": [ "Scazut", "Moderat", "Ridicat" ],
+              "probabilitati_conditionate": {
+                "TraficRutier": {
+                  "Scazut": 0.8,
+                  "Moderat": 0.5,
+                  "Ridicat": 0.1
+                },
+                "Industrie": {
+                  "Scazut": 0.3,
+                  "Moderat": 0.6,
+                  "Ridicat": 0.9
+                },
+                "Vant": {
+                  "Slab": 0.2,
+                  "Moderat": 0.5,
+                  "Puternic": 0.8
+                },
+                "Temperatura": {
+                  "Joasa": 0.3,
+                  "Medie": 0.6,
+                  "Ridicata": 0.9
+                },
+                "Umiditate": {
+                  "Scăzută": 0.2,
+                  "Moderată": 0.5,
+                  "Ridicată": 0.7
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+
+
+
+    {
+      "nume": "Constanta",
+      "saptamani": [
+        {
+          "nume_saptamana": "Saptamana1",
+          "noduri": [
+            {
+              "nume_nod": "Poluare",
+              "valori_posibile": [ "Scazut", "Moderat", "Ridicat" ],
+              "probabilitati_conditionate": {
+                "TraficRutier": {
+                  "Scazut": 0.8,
+                  "Moderat": 0.5,
+                  "Ridicat": 0.1
+                },
+                "Industrie": {
+                  "Scazut": 0.3,
+                  "Moderat": 0.6,
+                  "Ridicat": 0.9
+                },
+                "Vant": {
+                  "Slab": 0.2,
+                  "Moderat": 0.5,
+                  "Puternic": 0.8
+                },
+                "Temperatura": {
+                  "Joasa": 0.3,
+                  "Medie": 0.6,
+                  "Ridicata": 0.9
+                },
+                "Umiditate": {
+                  "Scăzută": 0.2,
+                  "Moderată": 0.5,
+                  "Ridicată": 0.7
+                }
+              }
+            }
+          ]
+        },
+
+
+        {
+          "nume_saptamana": "Saptamana2",
+          "noduri": [
+            {
+              "nume_nod": "Poluare",
+              "valori_posibile": [ "Scazut", "Moderat", "Ridicat" ],
+              "probabilitati_conditionate": {
+                "TraficRutier": {
+                  "Scazut": 0.8,
+                  "Moderat": 0.5,
+                  "Ridicat": 0.1
+                },
+                "Industrie": {
+                  "Scazut": 0.3,
+                  "Moderat": 0.6,
+                  "Ridicat": 0.9
+                },
+                "Vant": {
+                  "Slab": 0.2,
+                  "Moderat": 0.5,
+                  "Puternic": 0.8
+                },
+                "Temperatura": {
+                  "Joasa": 0.3,
+                  "Medie": 0.6,
+                  "Ridicata": 0.9
+                },
+                "Umiditate": {
+                  "Scăzută": 0.2,
+                  "Moderată": 0.5,
+                  "Ridicată": 0.7
+                }
+              }
+            }
+          ]
+        },
+
+
+        {
+          "nume_saptamana": "Saptamana3",
+          "noduri": [
+            {
+              "nume_nod": "Poluare",
+              "valori_posibile": [ "Scazut", "Moderat", "Ridicat" ],
+              "probabilitati_conditionate": {
+                "TraficRutier": {
+                  "Scazut": 0.8,
+                  "Moderat": 0.5,
+                  "Ridicat": 0.1
+                },
+                "Industrie": {
+                  "Scazut": 0.3,
+                  "Moderat": 0.6,
+                  "Ridicat": 0.9
+                },
+                "Vant": {
+                  "Slab": 0.2,
+                  "Moderat": 0.5,
+                  "Puternic": 0.8
+                },
+                "Temperatura": {
+                  "Joasa": 0.3,
+                  "Medie": 0.6,
+                  "Ridicata": 0.9
+                },
+                "Umiditate": {
+                  "Scăzută": 0.2,
+                  "Moderată": 0.5,
+                  "Ridicată": 0.7
+                }
+              }
+            }
+          ]
+        },
+
+
+        {
+          "nume_saptamana": "Saptamana4",
+          "noduri": [
+            {
+              "nume_nod": "Poluare",
+              "valori_posibile": [ "Scazut", "Moderat", "Ridicat" ],
+              "probabilitati_conditionate": {
+                "TraficRutier": {
+                  "Scazut": 0.8,
+                  "Moderat": 0.5,
+                  "Ridicat": 0.1
+                },
+                "Industrie": {
+                  "Scazut": 0.3,
+                  "Moderat": 0.6,
+                  "Ridicat": 0.9
+                },
+                "Vant": {
+                  "Slab": 0.2,
+                  "Moderat": 0.5,
+                  "Puternic": 0.8
+                },
+                "Temperatura": {
+                  "Joasa": 0.3,
+                  "Medie": 0.6,
+                  "Ridicata": 0.9
+                },
+                "Umiditate": {
+                  "Scăzută": 0.2,
+                  "Moderată": 0.5,
+                  "Ridicată": 0.7
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+
+
+
+    {
+      "nume": "Suceava",
+      "saptamani": [
+        {
+          "nume_saptamana": "Saptamana1",
+          "noduri": [
+            {
+              "nume_nod": "Poluare",
+              "valori_posibile": [ "Scazut", "Moderat", "Ridicat" ],
+              "probabilitati_conditionate": {
+                "TraficRutier": {
+                  "Scazut": 0.8,
+                  "Moderat": 0.5,
+                  "Ridicat": 0.1
+                },
+                "Industrie": {
+                  "Scazut": 0.3,
+                  "Moderat": 0.6,
+                  "Ridicat": 0.9
+                },
+                "Vant": {
+                  "Slab": 0.2,
+                  "Moderat": 0.5,
+                  "Puternic": 0.8
+                },
+                "Temperatura": {
+                  "Joasa": 0.3,
+                  "Medie": 0.6,
+                  "Ridicata": 0.9
+                },
+                "Umiditate": {
+                  "Scăzută": 0.2,
+                  "Moderată": 0.5,
+                  "Ridicată": 0.7
+                }
+              }
+            }
+          ]
+        },
+
+
+        {
+          "nume_saptamana": "Saptamana2",
+          "noduri": [
+            {
+              "nume_nod": "Poluare",
+              "valori_posibile": [ "Scazut", "Moderat", "Ridicat" ],
+              "probabilitati_conditionate": {
+                "TraficRutier": {
+                  "Scazut": 0.8,
+                  "Moderat": 0.5,
+                  "Ridicat": 0.1
+                },
+                "Industrie": {
+                  "Scazut": 0.3,
+                  "Moderat": 0.6,
+                  "Ridicat": 0.9
+                },
+                "Vant": {
+                  "Slab": 0.2,
+                  "Moderat": 0.5,
+                  "Puternic": 0.8
+                },
+                "Temperatura": {
+                  "Joasa": 0.3,
+                  "Medie": 0.6,
+                  "Ridicata": 0.9
+                },
+                "Umiditate": {
+                  "Scăzută": 0.2,
+                  "Moderată": 0.5,
+                  "Ridicată": 0.7
+                }
+              }
+            }
+          ]
+        },
+
+
+        {
+          "nume_saptamana": "Saptamana3",
+          "noduri": [
+            {
+              "nume_nod": "Poluare",
+              "valori_posibile": [ "Scazut", "Moderat", "Ridicat" ],
+              "probabilitati_conditionate": {
+                "TraficRutier": {
+                  "Scazut": 0.8,
+                  "Moderat": 0.5,
+                  "Ridicat": 0.1
+                },
+                "Industrie": {
+                  "Scazut": 0.3,
+                  "Moderat": 0.6,
+                  "Ridicat": 0.9
+                },
+                "Vant": {
+                  "Slab": 0.2,
+                  "Moderat": 0.5,
+                  "Puternic": 0.8
+                },
+                "Temperatura": {
+                  "Joasa": 0.3,
+                  "Medie": 0.6,
+                  "Ridicata": 0.9
+                },
+                "Umiditate": {
+                  "Scăzută": 0.2,
+                  "Moderată": 0.5,
+                  "Ridicată": 0.7
+                }
+              }
+            }
+          ]
+        },
+
+
+        {
+          "nume_saptamana": "Saptamana4",
+          "noduri": [
+            {
+              "nume_nod": "Poluare",
+              "valori_posibile": [ "Scazut", "Moderat", "Ridicat" ],
+              "probabilitati_conditionate": {
+                "TraficRutier": {
+                  "Scazut": 0.8,
+                  "Moderat": 0.5,
+                  "Ridicat": 0.1
+                },
+                "Industrie": {
+                  "Scazut": 0.3,
+                  "Moderat": 0.6,
+                  "Ridicat": 0.9
+                },
+                "Vant": {
+                  "Slab": 0.2,
+                  "Moderat": 0.5,
+                  "Puternic": 0.8
+                },
+                "Temperatura": {
+                  "Joasa": 0.3,
+                  "Medie": 0.6,
+                  "Ridicata": 0.9
+                },
+                "Umiditate": {
+                  "Scăzută": 0.2,
+                  "Moderată": 0.5,
+                  "Ridicată": 0.7
+                }
+              }
+            }
+          ]
+        }
+      ]
+    },
+
+
+
+    {
+      "nume": "Timisoara",
+      "saptamani": [
+        {
+          "nume_saptamana": "Saptamana1",
+          "noduri": [
+            {
+              "nume_nod": "Poluare",
+              "valori_posibile": [ "Scazut", "Moderat", "Ridicat" ],
+              "probabilitati_conditionate": {
+                "TraficRutier": {
+                  "Scazut": 0.8,
+                  "Moderat": 0.5,
+                  "Ridicat": 0.1
+                },
+                "Industrie": {
+                  "Scazut": 0.3,
+                  "Moderat": 0.6,
+                  "Ridicat": 0.9
+                },
+                "Vant": {
+                  "Slab": 0.2,
+                  "Moderat": 0.5,
+                  "Puternic": 0.8
+                },
+                "Temperatura": {
+                  "Joasa": 0.3,
+                  "Medie": 0.6,
+                  "Ridicata": 0.9
+                },
+                "Umiditate": {
+                  "Scăzută": 0.2,
+                  "Moderată": 0.5,
+                  "Ridicată": 0.7
+                }
+              }
+            }
+          ]
+        },
+
+
+        {
+          "nume_saptamana": "Saptamana2",
+          "noduri": [
+            {
+              "nume_nod": "Poluare",
+              "valori_posibile": [ "Scazut", "Moderat", "Ridicat" ],
+              "probabilitati_conditionate": {
+                "TraficRutier": {
+                  "Scazut": 0.8,
+                  "Moderat": 0.5,
+                  "Ridicat": 0.1
+                },
+                "Industrie": {
+                  "Scazut": 0.3,
+                  "Moderat": 0.6,
+                  "Ridicat": 0.9
+                },
+                "Vant": {
+                  "Slab": 0.2,
+                  "Moderat": 0.5,
+                  "Puternic": 0.8
+                },
+                "Temperatura": {
+                  "Joasa": 0.3,
+                  "Medie": 0.6,
+                  "Ridicata": 0.9
+                },
+                "Umiditate": {
+                  "Scăzută": 0.2,
+                  "Moderată": 0.5,
+                  "Ridicată": 0.7
+                }
+              }
+            }
+          ]
+        },
+
+
+        {
+          "nume_saptamana": "Saptamana3",
+          "noduri": [
+            {
+              "nume_nod": "Poluare",
+              "valori_posibile": [ "Scazut", "Moderat", "Ridicat" ],
+              "probabilitati_conditionate": {
+                "TraficRutier": {
+                  "Scazut": 0.8,
+                  "Moderat": 0.5,
+                  "Ridicat": 0.1
+                },
+                "Industrie": {
+                  "Scazut": 0.3,
+                  "Moderat": 0.6,
+                  "Ridicat": 0.9
+                },
+                "Vant": {
+                  "Slab": 0.2,
+                  "Moderat": 0.5,
+                  "Puternic": 0.8
+                },
+                "Temperatura": {
+                  "Joasa": 0.3,
+                  "Medie": 0.6,
+                  "Ridicata": 0.9
+                },
+                "Umiditate": {
+                  "Scăzută": 0.2,
+                  "Moderată": 0.5,
+                  "Ridicată": 0.7
+                }
+              }
+            }
+          ]
+        },
+
+
+        {
+          "nume_saptamana": "Saptamana4",
+          "noduri": [
+            {
+              "nume_nod": "Poluare",
+              "valori_posibile": [ "Scazut", "Moderat", "Ridicat" ],
+              "probabilitati_conditionate": {
+                "TraficRutier": {
+                  "Scazut": 0.8,
+                  "Moderat": 0.5,
+                  "Ridicat": 0.1
+                },
+                "Industrie": {
+                  "Scazut": 0.3,
+                  "Moderat": 0.6,
+                  "Ridicat": 0.9
+                },
+                "Vant": {
+                  "Slab": 0.2,
+                  "Moderat": 0.5,
+                  "Puternic": 0.8
+                },
+                "Temperatura": {
+                  "Joasa": 0.3,
+                  "Medie": 0.6,
+                  "Ridicata": 0.9
+                },
+                "Umiditate": {
+                  "Scăzută": 0.2,
+                  "Moderată": 0.5,
+                  "Ridicată": 0.7
+                }
+              }
+            }
+          ]
+        }
+      ]
+    }
+
+  ]
+}

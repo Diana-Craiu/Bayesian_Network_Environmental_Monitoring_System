@@ -1,0 +1,28 @@
+﻿{
+  "Temperatura": {
+    "Scazut": {
+      "Vant": {
+        "Scazut": {
+          "Umiditate": {
+            "Scazut": {
+              "Activitate": {
+                "Scazut": {
+                  "Poluare": {
+                    "Scazut": 0.8,
+                    "Moderat": 0.1,
+                    "Ridicat": 0.1
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "Moderat": {
+      // Continuă cu alte combinații pentru Vânt, Umiditate și Activitate
+    }
+    // ...
+  }
+  // ...
+}
